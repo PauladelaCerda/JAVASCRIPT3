@@ -1,0 +1,13 @@
+body {
+    display: flex;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#key {
+    background-color: white;
+    border: 1px solid black;
+}
